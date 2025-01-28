@@ -40,8 +40,6 @@ The CNN model consists of:
 
 ## 🤝 Contributing
 Feel free to fork the repo and improve the model. PRs are welcome!
-
-## 📜 License
-This project is open-source and licensed under the MIT License.
+Please play with it 
 
 
